@@ -1,1 +1,2 @@
-# create-react-app-typescript-playground
+create using : 
+npx create-react-app my-app --template typescript
